@@ -2,6 +2,7 @@
 ## ALUNOS:
 - JOAO VITOR APARECIDO SILVA
 - LUCAS HENRIQUE FERREIRA AMARAL
+- MARVIN EDGE MACHADO VIEIRA
 
 ## Criar e ativar o venv
 - python3 -m venv .venv
