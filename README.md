@@ -13,6 +13,6 @@ Passo a passo
 - echo ".venv" >> .gitignore
 - echo ".env.swp" >> .gitignore
 
-ALUNOS:
-JOAO VITOR APARECIDO SILVA
-LUCAS HENRIQUE FERREIRA AMARAL
+## ALUNOS:
+- JOAO VITOR APARECIDO SILVA
+- LUCAS HENRIQUE FERREIRA AMARAL
